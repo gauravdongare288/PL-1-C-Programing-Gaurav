@@ -15,7 +15,7 @@ int main()
    printf("\n---- Student Information ----In"):
    printf("\n Roll Number is: %d", rollnum);
    printf("\n Percentage is: %6f", per);
-   printf(“ln Grade ：%c", grade);
+   printf(“\n Grade ：%c", grade);
 
    return O;
 }
