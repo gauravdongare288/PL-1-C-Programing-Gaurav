@@ -5,7 +5,7 @@ int main()
   float area;
 
   area = (3.14*radius*radius);
-  printf("ln Area of Circle =%f ", area);
+  printf("\n Area of Circle =%f ", area);
 
 
   return O;
